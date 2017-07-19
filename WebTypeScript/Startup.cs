@@ -14,7 +14,7 @@ namespace WebTypeScript
     {
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
-        //https://www.typescriptlang.org/docs/handbook/gulp.html
+        //https://www.typescriptlang.org/docs/handbook/basic-types.html
         public void ConfigureServices(IServiceCollection services)
         {
         }
